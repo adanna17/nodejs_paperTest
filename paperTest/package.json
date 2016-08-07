@@ -1,0 +1,22 @@
+{
+  "name": "papertest",
+  "version": "1.0.0",
+  "description": "using paper.js for drawing function",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adanna17/nodejs_paperTest.git"
+  },
+  "author": "KIM JUNG MIN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adanna17/nodejs_paperTest/issues"
+  },
+  "homepage": "https://github.com/adanna17/nodejs_paperTest#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
